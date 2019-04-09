@@ -1,0 +1,16 @@
+body{
+
+    font-family: 'DejaVu Sans', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: crimson;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.error{
+
+    color: black;
+}
+.success{
+
+    color: blue;
+}
